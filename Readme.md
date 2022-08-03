@@ -13,7 +13,7 @@ listesine hoşgeldiniz.
 Please update your name to be appended last in the format it should be :)
 > Lütfen isminizi olması gerektiği formatta en sona eklenecek şekilde güncelleyin :)
 
-* [Mert Cobanoglu](https://github.com/metover)
+* [Mahanoğlu Cobanoglu](https://github.com/metover)
 * [İrem Kurt](https://github.com/violettance)
 * [Melih Akpinar](https://github.com/melihakpinar)
 * [Ufuk Mert Çelik](https://github.com/UMC25)
